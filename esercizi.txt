@@ -1,0 +1,40 @@
+Esercizio 1:
+Crea un progetto con QtCreator usando qmake che consente ad ogni click di un bottone di visualizzare un messaggio nella console di Qt (Indizio: "qDebug")
+NB: nel processo di creazione del progetto nella tab "Details" lasciare su "Generate form", potrai creare il bottone usando il designer ("mainwindow.ui")
+- Indizio: per connettersi al click del bottone utilizza il metodo di nome "connect"
+Risorse utili:
+- https://wiki.qt.io/How_to_Use_QPushButton
+
+Esercizio 2:
+Crea un progetto con QtCreator usando qmake che consente ad ogni click di un bottone di visualizzare un messaggio nella console di Qt (Indizio: "qDebug")
+NB: nel processo di creazione del progetto nella tab "Details" dovrai togliere il flag da "Generate form", e' vietato usare il designer drag and drop
+- Indizio: per connettersi al click del bottone utilizza il metodo di nome "connect"
+Risorse utili:
+- https://wiki.qt.io/How_to_Use_QPushButton
+
+Esercizio 3:
+Crea un progetto con QtCreator usando qmake, questo dovra' avere una view con 2 bottoni, ogni volta che premi un bottone dovra' disabilitare l'altro
+NB: nel processo di creazione del progetto nella tab "Details" lasciare su "Generate form", potrai creare il bottone usando il designer ("mainwindow.ui")
+- Indizio: per connettersi al click del bottone utilizza il metodo di nome "connect"
+Risorse utili:
+- https://wiki.qt.io/How_to_Use_QPushButton
+
+Esercizio 4:
+Crea un progetto con QtCreator usando qmake, questo dovra' avere una view con 2 bottoni, ogni volta che premi un bottone dovra' disabilitare l'altro
+NB: nel processo di creazione del progetto nella tab "Details" dovrai togliere il flag da "Generate form", e' vietato usare il designer drag and drop
+- Indizio: per connettersi al click del bottone utilizza il metodo di nome "connect"
+Risorse utili:
+- https://wiki.qt.io/How_to_Use_QPushButton
+
+
+Esercizio 5:
+Crea un progetto con QtCreator usando qmake, questo dovra' avere una view con 2 bottoni:
+- il primo bottone si occupera' di scrivere una stringa su un file
+- il secondo bottone si occupera' di leggere la stringa dal file e scriverla in console di debug (Indizio: "qDebug")
+- se il file non esiste va creato
+NB: nel processo di creazione del progetto nella tab "Details" decidi te se usare il designer oppure no
+- Indizio: per connettersi al click del bottone utilizza il metodo di nome "connect"
+Risorse utili:
+- https://wiki.qt.io/How_to_Use_QPushButton
+- https://doc.qt.io/qt-6/qfile.html
+
